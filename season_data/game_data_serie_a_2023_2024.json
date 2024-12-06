@@ -1,0 +1,152 @@
+[
+    {
+        "comp": "SERIE A",
+        "round": "ROUND 29",
+        "home_team": "Atalanta",
+        "away_team": "Fiorentina",
+        "home_goals": "2",
+        "away_goals": "3",
+        "date": "02.06.2024",
+        "time": "12:00"
+    },
+    {
+        "comp": "SERIE A",
+        "round": "ROUND 38",
+        "home_team": "Empoli",
+        "away_team": "AS Roma",
+        "home_goals": "2",
+        "away_goals": "1",
+        "date": "26.05.2024",
+        "time": "14:45"
+    },
+    {
+        "comp": "SERIE A",
+        "round": "ROUND 38",
+        "home_team": "Frosinone",
+        "away_team": "Udinese",
+        "home_goals": "0",
+        "away_goals": "1",
+        "date": "26.05.2024",
+        "time": "14:45"
+    },
+    {
+        "comp": "SERIE A",
+        "round": "ROUND 38",
+        "home_team": "Lazio",
+        "away_team": "Sassuolo",
+        "home_goals": "1",
+        "away_goals": "1",
+        "date": "26.05.2024",
+        "time": "14:45"
+    },
+    {
+        "comp": "SERIE A",
+        "round": "ROUND 38",
+        "home_team": "Verona",
+        "away_team": "Inter",
+        "home_goals": "2",
+        "away_goals": "2",
+        "date": "26.05.2024",
+        "time": "14:45"
+    },
+    {
+        "comp": "SERIE A",
+        "round": "ROUND 38",
+        "home_team": "Atalanta",
+        "away_team": "Torino",
+        "home_goals": "3",
+        "away_goals": "0",
+        "date": "26.05.2024",
+        "time": "12:00"
+    },
+    {
+        "comp": "SERIE A",
+        "round": "ROUND 38",
+        "home_team": "Napoli",
+        "away_team": "Lecce",
+        "home_goals": "0",
+        "away_goals": "0",
+        "date": "26.05.2024",
+        "time": "12:00"
+    },
+    {
+        "comp": "SERIE A",
+        "round": "ROUND 38",
+        "home_team": "AC Milan",
+        "away_team": "Salernitana",
+        "home_goals": "3",
+        "away_goals": "3",
+        "date": "25.05.2024",
+        "time": "14:45"
+    },
+    {
+        "comp": "SERIE A",
+        "round": "ROUND 38",
+        "home_team": "Juventus",
+        "away_team": "Monza",
+        "home_goals": "2",
+        "away_goals": "0",
+        "date": "25.05.2024",
+        "time": "12:00"
+    },
+    {
+        "comp": "SERIE A",
+        "round": "ROUND 38",
+        "home_team": "Genoa",
+        "away_team": "Bologna",
+        "home_goals": "2",
+        "away_goals": "0",
+        "date": "24.05.2024",
+        "time": "14:45"
+    },
+    {
+        "comp": "SERIE A",
+        "round": "ROUND 38",
+        "home_team": "Cagliari",
+        "away_team": "Fiorentina",
+        "home_goals": "2",
+        "away_goals": "3",
+        "date": "23.05.2024",
+        "time": "14:45"
+    },
+    {
+        "comp": "SERIE A",
+        "round": "ROUND 37",
+        "home_team": "Bologna",
+        "away_team": "Juventus",
+        "home_goals": "3",
+        "away_goals": "3",
+        "date": "20.05.2024",
+        "time": "14:45"
+    },
+    {
+        "comp": "SERIE A",
+        "round": "ROUND 37",
+        "home_team": "Salernitana",
+        "away_team": "Verona",
+        "home_goals": "1",
+        "away_goals": "2",
+        "date": "20.05.2024",
+        "time": "12:30"
+    },
+    {
+        "comp": "SERIE A",
+        "round": "ROUND 37",
+        "home_team": "AS Roma",
+        "away_team": "Genoa",
+        "home_goals": "1",
+        "away_goals": "0",
+        "date": "19.05.2024",
+        "time": "14:45"
+    },
+    {
+        "comp": "SERIE A",
+        "round": "ROUND 37",
+        "home_team": "Inter",
+        "away_team": "Lazio",
+        "home_goals": "1",
+        "away_goals": "1",
+        "date": "19.05.2024",
+        "time": "12:00"
+    }
+]
